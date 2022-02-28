@@ -15,7 +15,7 @@ pip install -r requirements.txt (optional)
 <br>Переходимо у вкладку API development tools, пишемо любий App title та Short name
 <br>Нагорі отримуємо App api_id та App api_hash
 <br>**ПЕРЕДАВАТИ КОМУСЬ `api_id` та `api_hash` НІ В ЯКОМУ РАЗІ НЕ МОЖНА!!! Вони дают можливіть контролювати вашу персональну сторінку у Телеграмі.**
-<br>![image-1](imgs/1.png)
+<br><br>![image-1](imgs/1.png)
 <br>![image-2](imgs/2.png)
 <br>![image-3](imgs/3.png)
 <br>![image-4](imgs/4.png)
@@ -29,7 +29,7 @@ pip install -r requirements.txt (optional)
 - Телефон вашого аккаунта у форматі +380ххххххххх
 - Код автентифікації який прийде повідомленням у телеграм та, якщо треба, пароль
 
-![image-6](imgs/6.png)
+<br><br>![image-6](imgs/6.png)
 
 3. Бот автоматично напише репорти на канали, що записані у файлі `telegram_db` з текстом: RUSSIAN PROPAGANDA AGAINST UKRAINE DURING RUSSIAN INVASION IN UKRAINE.
 <br>**Правильно налаштована програма буде відображати такий результат:**
