@@ -22,7 +22,7 @@ pip install -r requirements.txt (optional)
 <br>![image-5](imgs/5.png)
 
 ## Використання 
-1. Далі запускаємо бота:`python main.py` або `docker build -t telegram_report_bot_ua . && docker run -it --rm telegram_report_bot_ua`
+1. Далі запускаємо бота:`python main.py` або `docker build -t telegram_report_bot_ua . && docker run -it -v $(pwd):/app telegram_report_bot_ua`
 2. По черзі вводимо:
 - App api_id
 - App api_hash
