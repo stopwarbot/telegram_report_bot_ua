@@ -23,7 +23,7 @@ pip install -r requirements.txt
 - App api_hash
 - Телефон вашого аккаунта у форматі +380ххххххххх
 - Код автентифікації який прийде повідомленням у телеграм
-3. Бот автоматично напише репорти на канали, що записані у файлі `telegram_db` з текстом: RUSSIAN PROPAGANDA AGAINST UKRAINE DURING RUSSIAN INVASION IN UKRAINE.
+3. Бот автоматично напише репорти на випадкові 150 каналів з файлу `telegram_db`.
 <br>**Правильно налаштована програма буде відображати такий результат:**
 <br><br>![image](https://user-images.githubusercontent.com/39994538/155859028-e83b5228-e711-4f21-bf4e-db9b1cfccb24.png)
 
