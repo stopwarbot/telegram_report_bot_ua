@@ -29,7 +29,7 @@ pip install -r requirements.txt (optional)
 - Телефон вашого аккаунта у форматі +380ххххххххх
 - Код автентифікації який прийде повідомленням у телеграм та, якщо треба, пароль
 
-<br><br>![image-6](imgs/6.png)
+<br>![image-6](imgs/6.png)
 
 3. Бот автоматично напише репорти на канали, що записані у файлі `telegram_db` з текстом: RUSSIAN PROPAGANDA AGAINST UKRAINE DURING RUSSIAN INVASION IN UKRAINE.
 <br>**Правильно налаштована програма буде відображати такий результат:**
